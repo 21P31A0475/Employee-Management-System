@@ -90,3 +90,6 @@ This Employee Management System demonstrates how database-driven solutions can:
 4. Enable informed business decisions
 
 It reflects strong understanding of database design, SQL querying, and real-world HR workflows.
+
+## Author
+Boddu Chaitanya
