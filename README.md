@@ -1,8 +1,10 @@
 Project Overview
+
 The Employee Management System (EMS) is a database-driven project designed to efficiently store, manage, and analyze employee-related information within an organization.
 This system centralizes employee data such as personal details, departments, job roles, payroll, qualifications, and leave records, enabling accurate HR operations and data-driven decision-making using SQL.
 
 Business Problem
+
 In many organizations, employee information is maintained across multiple systems or manual records, which leads to:
 1. Data duplication and inconsistency
 2. Payroll miscalculations due to outdated data
@@ -11,6 +13,7 @@ In many organizations, employee information is maintained across multiple system
 A lack of a centralized database makes employee management error-prone and inefficient.
 
 Project Objectives
+
 1. Design a structured relational database for employee management
 2. Store and manage employee, department, job, payroll, qualification, and leave data
 3. Automate salary and bonus calculations using integrated payroll data
@@ -18,6 +21,7 @@ Project Objectives
 5. Generate analytical insights using SQL queries to support HR decisions
 
 Database Design
+
 The system follows a normalized relational database structure to ensure accuracy and consistency.
 Key Tables
 1. Employee Table – Employee personal and job-related details
@@ -29,9 +33,11 @@ Key Tables
 7. Qualification Table – Employee skills and qualifications
 
 ER Diagram
+
 The ER diagram defines clear relationships between employees, departments, payroll, leaves, and qualifications to avoid redundancy and maintain referential integrity.
 
 Key SQL Analysis Questions
+
 This project answers real-world HR and management questions such as:
 1. How many unique employees are in the organization?
 2. Which departments have the highest number of employees?
@@ -44,11 +50,13 @@ This project answers real-world HR and management questions such as:
 9. What is the total monthly payroll processed?
 
 SQL Query Results & Insights
+
 Using SQL concepts such as:
 1. JOINs
 2. GROUP BY & HAVING
 3. Aggregate functions
 4. Subqueries
+   
 the system generates meaningful insights related to:
 1. Department-wise salary distribution
 2. Payroll and bonus impact analysis
@@ -56,6 +64,7 @@ the system generates meaningful insights related to:
 4. Skill and qualification gaps in the workforce
 
 Final Business Insights
+
 1. Centralized employee data improves HR efficiency and reporting speed
 2. Department-wise salary analysis helps optimize payroll budgets
 3. Integrated leave and payroll data highlights attendance patterns
@@ -63,12 +72,14 @@ Final Business Insights
 5. Data-driven insights enable smarter organizational planning
 
 Tools & Technologies
+
 1. SQL – Database design and querying
 2. Relational Database Management System (RDBMS)
 3. ER Diagrams – Database modeling
 4. SQL Constraints – Data integrity and consistency
 
 Project Outcome
+
 This Employee Management System demonstrates how database-driven solutions can:
 1. Eliminate data redundancy
 2. Improve payroll accuracy
