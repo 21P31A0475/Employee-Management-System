@@ -87,11 +87,3 @@ This Employee Management System demonstrates how database-driven solutions can:
 4. Enable informed business decisions
 
 It reflects strong understanding of database design, SQL querying, and real-world HR workflows.
-
-Author
-
-B. Chaitanya
-Batch 435 – Innomatics Research Labs
-SQL | Database Design | Data Analysis
-
-This project is developed for learning, portfolio presentation, and interview discussions.
